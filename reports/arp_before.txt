@@ -1,0 +1,3 @@
+192.168.181.254 dev eth0 lladdr 00:50:56:ef:20:e8 STALE 
+192.168.181.1 dev eth0 lladdr 00:50:56:c0:00:01 STALE 
+192.168.181.129 dev eth0 lladdr 00:0c:29:b2:75:c4 STALE 
